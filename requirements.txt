@@ -3,6 +3,3 @@ flask_cors
 requests
 bs4
 pymongo
-
-
-Flask is a popular Python web framework, meaning it is a third-party Python library used for developing web applications
